@@ -1,0 +1,11 @@
+[
+  {
+    "id": "truthnovel",
+    "name": "TruthNovel",
+    "lang": "ar",
+    "version": "1.0.0",
+    "url": "https://truthnovel.top",
+    "iconUrl": "https://truthnovel.top/favicon.ico",
+    "scriptUrl": "https://raw.githubusercontent.com/adhamsror20/lnreader-extensions/main/truthnovel.js"
+  }
+]
